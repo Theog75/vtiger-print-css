@@ -1,0 +1,13 @@
+.navbar,.related,#leftPanel,button,.btn-group,.addCommentBlock,.summaryImg {
+	display: none !important;
+}
+
+body {
+	direction: rtl;
+}
+
+.companyLogo {
+	display: block;
+	margin: 0 auto;float: none;
+	clear: both;
+}
